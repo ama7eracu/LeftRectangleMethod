@@ -1,0 +1,15 @@
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/bin/Debug/net6.0/LeftRectangleMethod
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/bin/Debug/net6.0/LeftRectangleMethod.deps.json
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/bin/Debug/net6.0/LeftRectangleMethod.runtimeconfig.json
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/bin/Debug/net6.0/LeftRectangleMethod.dll
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/bin/Debug/net6.0/LeftRectangleMethod.pdb
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/obj/Debug/net6.0/LeftRectangleMethod.csproj.AssemblyReference.cache
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/obj/Debug/net6.0/LeftRectangleMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/obj/Debug/net6.0/LeftRectangleMethod.AssemblyInfoInputs.cache
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/obj/Debug/net6.0/LeftRectangleMethod.AssemblyInfo.cs
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/obj/Debug/net6.0/LeftRectangleMethod.csproj.CoreCompileInputs.cache
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/obj/Debug/net6.0/LeftRectangleMethod.dll
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/obj/Debug/net6.0/refint/LeftRectangleMethod.dll
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/obj/Debug/net6.0/LeftRectangleMethod.pdb
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/obj/Debug/net6.0/LeftRectangleMethod.genruntimeconfig.cache
+/Users/aleksandrmekanin/RiderProjects/ConsoleApp1/LeftRectangleMethod/obj/Debug/net6.0/ref/LeftRectangleMethod.dll
